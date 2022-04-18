@@ -82,6 +82,7 @@ ul {
 
 body {
     background-image: url(./Produtos.jpeg);
+    background-size: cover;
 }
 
 #rodape {
