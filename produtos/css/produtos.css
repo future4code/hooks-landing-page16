@@ -86,3 +86,14 @@ button {
     padding: 100px 170px 100px;
     
 }
+
+#rodape {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #8499b1;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    
+}
